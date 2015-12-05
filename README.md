@@ -4,6 +4,7 @@ Just something about myself.
 Making more changes to this file.
 
 ## Introduction
+Some Intro! 
 
 ## Something important
 
